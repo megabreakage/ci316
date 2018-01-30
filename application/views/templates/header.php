@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/styles.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/animate.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/fontawesome.css">
+
     <link rel="icon" type="image/png" href="<?php echo base_url(); ?>assets/images/codeigniter1.png">
 
     <title>Hello!</title>
